@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Pavitra, a software engineer living in San Francisco, CA. I’m currently building [Dosu](https://dosu.dev), an AI software engineering agent that writes documentation, resolves issues, and maintains engineering knowledge on software teams.
+
+Dosu has helped over 100,000 developers on more than 40,000 repos, including LangChain, Astronomer, LlamaIndex, Prisma, Apache Airflow, and CNCF.
+
+📫 Connect with me on: [LinkedIn](https://www.linkedin.com/in/pavitrabhalla/)
+
+
