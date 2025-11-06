@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Pavitra, a software engineer living in San Francisco, CA. I’m currently building [Dosu](https://dosu.dev) to automate software documentation and knowledge management.
-
-Dosu has helped over 100,000 developers on more than 40,000 repos, including LangChain, Astronomer, LlamaIndex, Prisma, Apache Airflow, and CNCF.
+I am Pavitra, founder of RayAI [RayAI](https://rayai.com). I am building infrastructure for agentic AI, powered by Ray. 
 
 📫 Connect with me on: [LinkedIn](https://www.linkedin.com/in/pavitrabhalla/)
 
