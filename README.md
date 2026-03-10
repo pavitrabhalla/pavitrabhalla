@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Pavitra, founder of [RayAI](https://rayai.com). I am building infrastructure for agentic AI, powered by Ray. 
+I am Pavitra, founder of [Superserve](https://superserve.ai). Building compute infrastructure for hosting agents.
 
 📫 Connect with me on: [LinkedIn](https://www.linkedin.com/in/pavitrabhalla/)
 
