@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Pavitra, founder of [Superserve](https://superserve.ai). Building compute infrastructure for hosting agents.
+Pavitra here, founder of [Superserve](https://superserve.ai). Building a composable computing cloud for AI Agents.
 
 📫 Connect with me on: [LinkedIn](https://www.linkedin.com/in/pavitrabhalla/)
 
